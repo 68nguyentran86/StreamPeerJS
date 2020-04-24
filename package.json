@@ -11,6 +11,7 @@
   "dependencies": {
     "jquery": "^3.5.0",
     "peerjs": "^1.2.0",
-    "uid": "^1.0.0"
+    "uid": "^1.0.0",
+    "minimist": ">=1.2.3"
   }
 }
